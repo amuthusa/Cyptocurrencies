@@ -13,6 +13,7 @@
    
    Based on our elbow curve the curve seems to be flatenning after k=4, so we can choose our cluster size as 4 and get the KMeans clustering. Using KMeans cluster of 4 where 4th cluster of Class 3 is based on one of the cyptocurrency which is BitTorrent which seems to be an outlier.
    
+   Using Scatter Chart between Total Coins Mined Vs Total Coin Supply based on the cluster shows how the cluster is organized ![Scatter chart](images/Scatter_Chart_TotalCoinSupplyVsTotalCoinsMined.png). Since the chart is not clear normalizing the Total Coins Mined, Total Coin Supply the chart seems to be much better but still its not clear compared to the 3d scatter chart ![Scaled Scatter chart](images/Scaled_Scatter_Chart_TotalCoinSupplyVsTotalCoinsMined.png)
    
    
    
